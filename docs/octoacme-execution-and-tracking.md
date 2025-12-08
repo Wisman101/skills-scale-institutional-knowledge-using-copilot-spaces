@@ -17,11 +17,15 @@ Guidance for managing day-to-day execution and tracking progress toward project 
   - Require at least one approval before merging (or team-defined policy)
 
 ## Quality & Testing
+The QA Lead oversees the following quality practices:
 - Unit tests for new logic
 - Integration tests where applicable
 - End-to-end smoke tests for critical flows before release
 - Security scanning in CI
 - Manual QA for feature acceptance when needed
+- Test plan execution and defect tracking
+
+QA Lead coordinates with developers to ensure quality gates are met before progressing items through the workflow.
 
 ## Reporting & Metrics
 - Track velocity and burndown
@@ -37,4 +41,5 @@ Guidance for managing day-to-day execution and tracking progress toward project 
 - [ ] Branching and PR conventions documented in repo
 - [ ] CI configured for tests and lint
 - [ ] Regular demos scheduled
-- [ ] Risk register updated weekly
+- [ ] Risk register updated weekly by Risk Manager
+- [ ] QA Lead reviews quality metrics regularly

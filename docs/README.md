@@ -30,9 +30,12 @@ Our cross-functional teams include:
 
 - **Project Manager (PM)** — Coordinates delivery, schedules, risk management, and communications
 - **Product Manager (PdM)** — Defines outcomes, prioritizes the backlog, and measures success
+- **Business Analyst** — Gathers and clarifies requirements, bridges technical and business teams
+- **Risk Manager** — Proactively identifies, evaluates, and mitigates project risks
+- **QA Lead** — Oversees quality assurance, test planning, and defect management across all phases
 - **Developers** — Implement features, collaborate on design, and ensure quality
-- **QA/Testing** — Validate quality and acceptance criteria
-- **Stakeholders** — Provide inputs, feedback, and approvals
+- **Project Sponsor** — Provides direction, secures resources, and champions strategic value
+- **Stakeholders** — Provide inputs, feedback, and approvals; represent business and user needs
 
 Each role has clear responsibilities and communication patterns to ensure smooth collaboration.
 

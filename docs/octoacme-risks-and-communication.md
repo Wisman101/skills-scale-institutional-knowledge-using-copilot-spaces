@@ -4,7 +4,7 @@
 Explain how to identify, manage, and communicate risks and dependencies.
 
 ## Risk Register
-Maintain a simple table with:
+The Risk Manager maintains a simple table with:
 - ID
 - Description
 - Impact (High/Med/Low)
@@ -13,11 +13,16 @@ Maintain a simple table with:
 - Mitigation plan
 - Status
 
+See the [Risk Register Template](templates/risk-register-template.md) for a ready-to-use format.
+
 ## Risk Lifecycle
+The Risk Manager oversees the following lifecycle:
 - Identify: during planning and ongoing execution
 - Assess: estimate impact and likelihood
 - Mitigate: reduced via actions, contingency plans
 - Monitor: review at weekly syncs and update status
+
+The Risk Manager works with the Project Manager to ensure risks are escalated appropriately and mitigation plans are executed.
 
 ## Stakeholder Communication
 - Identify stakeholder groups and communication needs (e.g., engineering, sales, support)

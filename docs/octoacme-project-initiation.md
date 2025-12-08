@@ -18,12 +18,14 @@ Whenever a new project idea or feature proposal is ready to be explored.
 - High-level timeline and key milestones
 - Initial risk list
 - Resource needs (team roles, rough effort estimate)
+- Project Sponsor identification and approval
 
 ## Project One-pager Template
 - Project name:
 - Problem statement:
 - Objective / Goal (SMART):
 - Success metrics:
+- Project Sponsor:
 - Primary stakeholders:
 - Suggested timeline / milestones:
 - Quick risks & dependencies:
@@ -31,6 +33,7 @@ Whenever a new project idea or feature proposal is ready to be explored.
 
 ## Initiation Checklist
 - [ ] One-pager completed and reviewed by Product Lead
+- [ ] Project Sponsor identified and committed
 - [ ] Sponsor / Stakeholder alignment (email or meeting)
 - [ ] Decision: Approve to move into planning?
 - [ ] Create repo or project board skeleton
@@ -41,3 +44,4 @@ Move to planning when:
 - Success metrics are clear
 - Stakeholders agree on priority
 - Team availability is confirmed
+- Project Sponsor has approved the initiative
