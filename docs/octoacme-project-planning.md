@@ -10,11 +10,12 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 
 ## Activities
 1. Kickoff meeting with stakeholders and delivery team
-2. Create prioritized backlog with acceptance criteria
-3. Estimate scope (T-shirt sizing or story points)
-4. Define Definition of Done (DoD)
-5. Identify dependencies and integration points
-6. Create release plan and milestone map
+2. Business Analyst facilitates requirements gathering sessions
+3. Create prioritized backlog with acceptance criteria
+4. Estimate scope (T-shirt sizing or story points)
+5. QA Lead defines Definition of Done (DoD) and initial test strategy
+6. Identify dependencies and integration points
+7. Create release plan and milestone map
 
 ## Backlog Item Template
 - Title:
@@ -31,13 +32,18 @@ Turn an approved initiative into an actionable plan and backlog for delivery.
 - Ensure team capacity is respected
 
 ## Risk & Dependency Management
-- Capture in Risk Register:
+- Risk Manager captures in Risk Register:
   - ID, Description, Impact, Probability, Owner, Mitigation
+- Business Analyst identifies requirement-related risks
 - Mark cross-team dependencies in the project board and escalate during weekly syncs
+
+See the [Risk Register Template](templates/risk-register-template.md) for details.
 
 ## Planning Checklist
 - [ ] Project kickoff held
+- [ ] Business Analyst completes requirements gathering
 - [ ] Backlog prioritized and estimated
 - [ ] Release timeline and milestones agreed
-- [ ] Definition of Done documented
-- [ ] Initial test plan / QA approach drafted
+- [ ] Definition of Done documented by QA Lead
+- [ ] Initial test plan / QA approach drafted by QA Lead
+- [ ] Risk register initialized by Risk Manager
